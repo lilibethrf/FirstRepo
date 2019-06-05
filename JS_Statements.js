@@ -7,7 +7,7 @@ var newVariable;
 var emptyVariable = null;
 
 var myArray = [];
-var myObject = {};
+var myObject = {};   k
 
 
 
@@ -273,7 +273,7 @@ while (i > 0)
 
 
 /* BREAK AND CONTINUE STATEMENTS*/
-console.log("Break and Continue Statements" + /n);
+console.log("Break and Continue Statements" + /n );
 /* The break statement allows to stop the execution of a loop. 
 For example, we can create a loop that loops forever using while(true) 
 and use the break statement to break inside the loop instead by checking 
